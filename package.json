@@ -1,5 +1,6 @@
 {
-  "name": "dappctrl_gui",
+  "name": "dappctrlgui",
+  "description": "Privatix Network GUI",
   "version": "0.1.0",
   "main": "build/main.js",
   "devDependencies": {
@@ -49,5 +50,9 @@
     "react-tooltip": "^3.5.0",
     "uuid": "^3.2.1"
   },
-  "license": "GPL-3.0-only"
+  "license": "GPL-3.0-only",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/Privatix/dapp-gui/"
+  }
 }
